@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<config>
+	<modules>
+		<Midin_Cihuy>
+			<active>true</active>
+			<codePool>local</codePool>
+		</Midin_Cihuy>
+	</modules>
+</config>
